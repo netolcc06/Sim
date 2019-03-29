@@ -1,0 +1,1 @@
+Based on Stable Fluids paper by Jos Stam. It is an Eulerian approach with semi-lagrangian advection, but unlike the original paper, the fluid step simulation occurs without swapping buffers. A GPU implementation is coming.
